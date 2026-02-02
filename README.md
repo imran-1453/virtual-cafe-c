@@ -1,6 +1,3 @@
-# virtual-cafe-c
-A console-based virtual cafe automation project developed in C.
-
 # ☕ Sanal Kafe Otomasyonu (C)
 
 Bu proje C dili kullanılarak geliştirilmiş **konsol tabanlı bir sanal kafe otomasyonudur**.  
@@ -23,7 +20,7 @@ Kullanıcı menüden kahve seçer, ödeme yapar ve sistem para üstünü hesapla
 - Basit ödeme algoritması
 
 
------------------------------------------------------------------------
+___________________________________________________________________________________
 
 # ☕ Virtual Cafe Automation (C)
 
